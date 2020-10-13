@@ -1,0 +1,5 @@
+@charset "utf-8";							/*specifying the char set for the code */
+body{										/*opening the css to customize the body of the page */		
+	background-color: #aeeb34;				/*you can put in color names or use a hex colour */
+}
+

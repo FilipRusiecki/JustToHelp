@@ -1,0 +1,11 @@
+to create a css file follow this 
+
+1. create a textfile 
+
+2. delete the name and the ending are rename it to "anyname.css" 
+
+3. it will ask you to change the file format, click yes.
+
+4. Then open the html and then the css using notepad++ and follow tutorial.
+
+5. to comment in .css use /* your comment here */

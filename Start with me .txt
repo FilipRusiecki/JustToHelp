@@ -1,0 +1,24 @@
+1.Get notePad++ to start making proper websites!
+https://notepad-plus-plus.org/downloads/
+
+
+2.Create a folder
+
+
+3.Make a new txt file in the folder, preferably called "index" as this is going to be the main/home page.
+
+
+4.Open the file using notePad++
+
+
+5.You are ready to go into your first lesson! 
+
+
+Also this is how you determine comments in html <!--comment here -->  
+OR 
+For larger pieces of code 
+
+<!-- code inside here...
+     ............. -->
+
+Now start first lesson :)
